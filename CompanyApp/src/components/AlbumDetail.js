@@ -22,6 +22,8 @@ return(
 <Card>
 
 <CardSection>
+
+  
 <View style={thumbnailContainerStyle}>
 <Image style={thumbnailStyle} source={{uri:thumbnail_image }} />
 </View>
